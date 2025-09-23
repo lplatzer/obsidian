@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Inbox",
+      "path": "Atlas/Inbox.md"
+    },
+    {
+      "type": "file",
+      "title": "Writing down daily goals in the morning is an important habit",
+      "path": "Cards/Writing down daily goals in the morning is an important habit.md"
+    }
+  ]
+}

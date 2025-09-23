@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "translucency": false,
+  "baseFontSize": 14,
+  "cssTheme": "Prism",
+  "showViewHeader": true,
+  "nativeMenus": true
+}

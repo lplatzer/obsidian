@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "Atlas/Utilities/Templates/Template, Daily Note.md",
+    "folder": "Calendar/2024",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Atlas/Utilities/Templates/Template, Weekly Note.md",
+    "folder": "Calendar/2024",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Atlas/Utilities/Templates/Template, Monthly Note.md",
+    "folder": "Calendar/2024",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "Atlas/Utilities/Templates/Template, Quarterly Note.md",
+    "folder": "Calendar/2024",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "Atlas/Utilities/Templates/Template, Yearly Note.md",
+    "folder": "Calendar",
+    "enabled": true
+  }
+}
